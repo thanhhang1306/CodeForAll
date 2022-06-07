@@ -2,7 +2,7 @@
 CodeForAll is an activist website which addresses the issue of gender equity. Hang Pham developed this website with HTML/CSS/JavaScript while participating in the Girls Who Code Summer Immersion Program. A version of this code is also available on replit.
 
 ## Link to Website 
-Please click [here](https://activist-toolkit-starter-code--hangpham6.repl.co) to visit the website.
+Please click [here](https://activist-toolkit-starter-code--hangpham6.repl.co) to visit the website. Furthermore, click [here](https://hq.girlswhocode.com/project-gallery/7213) to view the replit file.
 
 ## Installation
 Use software and/or websites that can run HTML/CSS/JavaScript. All but the README.md files are required for the website to run successfully.
