@@ -9,5 +9,5 @@ Use software and/or websites that can run HTML/CSS/JavaScript.
 Pull requests are welcome but please credit Hang Pham. 
 
 ## Credits 
-Website was made through the guidance of the staff at the Girls Who Code 2021 Summer Immersion Program. 
+Website was made through the guidance of the staff at the Girls Who Code 2021 Summer Immersion Program. All photographs  are copy-right free.
 
