@@ -1,5 +1,5 @@
 # CodeForAll (an activist website)
-CodeForAll is an activist website which addresses the issue of gender equity [titled "&lt;Code> for All"]. Hang Pham developed this website with HTML/CSS/JavaScript while participating in the Girls Who Code Summer Immersion Program. A version of this code is also available on replit.
+CodeForAll is an activist website which addresses the issue of gender equity. Hang Pham developed this website with HTML/CSS/JavaScript while participating in the Girls Who Code Summer Immersion Program. A version of this code is also available on replit.
 
 
 ## Installation
