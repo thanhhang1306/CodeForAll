@@ -5,7 +5,7 @@ CodeForAll is an activist website which addresses the issue of gender equity. Ha
 Please click [here](https://activist-toolkit-starter-code--hangpham6.repl.co) to visit the website.
 
 ## Installation
-Use software and/or websites that can run HTML/CSS/JavaScript.
+Use software and/or websites that can run HTML/CSS/JavaScript. All but the README.md files are required for the website to run successfully.
 
 ## Contributing
 Pull requests are welcome but please credit Hang Pham. 
